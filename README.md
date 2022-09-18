@@ -1,2 +1,3 @@
 # git_demo
-This an experimental repo for practicing git and github.
+I am editing the readme file adding more info to the file as i go.
+
